@@ -1,10 +1,13 @@
+
 #include <stdio.h>
 
 int main()
 {
-    int n = 5;
+    int n;
+    printf("Enter the Number: ");
+    scanf("%d",&n);
 
-    for (int i = 1; i < 5; i++)
+    for (int i = 1; i <= n; i++)
     {
         if (i % 2 != 0)
         {
@@ -14,11 +17,12 @@ int main()
         {
             printf("+%d", i);
         }
-        if (i == 4)
+        if (i == n)
         {
             printf("......n");
         }
     }
 
     return 0;
+}
 }
