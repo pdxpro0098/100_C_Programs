@@ -35,7 +35,7 @@
 
 ✔️ 17. Develop a program to input any number and print them in descending order without using the sorting technique.
 
-18. Code a program to compute the prime factors of any number using a function.
+✔️ 18. Code a program to compute the prime factors of any number using a function.
 
 ✔️ 19. Program to display all prime fibonacci series between 1 to 10000.
 
