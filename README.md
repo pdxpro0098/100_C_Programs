@@ -33,7 +33,7 @@
 
 16. Program to display the Pascal’s Triangle.
 
-17. Develop a program to input any number and print them in descending order without using the sorting technique.
+✔️ 17. Develop a program to input any number and print them in descending order without using the sorting technique.
 
 18. Code a program to compute the prime factors of any number using a function.
 
