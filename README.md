@@ -1,18 +1,32 @@
 # 100_C_Programs
 
 ✔️ 1. Program to compute and print all prime numbers between 100 and 500
+
 ✔️ 2. Program to display all Armstrong numbers between 100 and 1000.
+
 ✔️ 3. Program to create a 3x3 matrix and store the first nine natural numbers row wise. The program should further display the sum of rows, columns and diagonals.
+
 ✔️ 4. Program to display the ccfncname of the week day as per the entered number.
+
 ✔️ 5. Write a prograZee input any number and print the same in reverse.
+
 ✔️ 6. Prograz zam to display the sum and average of all even and odd numbers between 1 and 100.
+
 ✔️ 7. Write a program to input any ten numbers and print the maximum and minimum.
+
 ✔️8. Program to input a number and print its even factors.
+
 ✔️9. Write a program to define a function fact() to compute the factorial of any entered number.
+
 ✔️10. Create a program to define a function found() to print the Highest Common Factor of any two numbers.
+
 ✔️ 11. Write a program to define and utilize a function perfect(), to print all perfect numbers from 1 to 100. ( A perfect number is a number which is equal to the sum of its factors eg. 6=1+2+3, hence 6 is a perfect number).
+
 ✔️ 12. Write a program to compute prime factors of any entered number with the help of a function pfact().
+
 ✔️ 13. Program to input a number and print its binary equivalent.
+
+
 ✔️ 14. Sorting string using Bubble Sorting Technique.
 15. Description: Its a simple program which calculates the day of the week for any given date & month of the year 2002.
 16. Program to display the Pascal’s Triangle.
