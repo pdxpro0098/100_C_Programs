@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int perfect(int num)
 {
     int factSum = 0;

@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <strings.h>
 
 void primeFactors(int num)
 {

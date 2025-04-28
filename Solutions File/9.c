@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 static int fact(int num)
 {
     int fact = 1;

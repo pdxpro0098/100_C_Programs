@@ -33,6 +33,5 @@ int main()
             printf("Entered number is armstrong %d \n", userNum);
         }
     }
-
     return 0;
 }

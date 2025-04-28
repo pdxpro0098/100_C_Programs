@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
     char input;
@@ -37,6 +38,5 @@ int main()
             break;
         }
     }
-
     return 0;
 }

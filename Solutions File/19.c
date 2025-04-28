@@ -32,6 +32,5 @@ void fibonacci(int num)
 int main()
 {
     fibonacci(42);
-    // unable to store larger number 
     return 0;
 }
