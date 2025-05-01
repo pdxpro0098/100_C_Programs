@@ -26,7 +26,6 @@
 
 ✔️ 13. Program to input a number and print its binary equivalent.
 
-
 ✔️ 14. Sorting string using Bubble Sorting Technique.
 
 15. Description: Its a simple program which calculates the day of the week for any given date & month of the year 2002.
@@ -169,7 +168,7 @@
 
 84. Program to input name and marks in five subjects and compute avg. and select the subjects.
 
-85. Program to print the reverse of any entered string.
+✔️ 85. Program to print the reverse of any entered string.
 
 86. Program to arrange an entered string in Alphabetical order.
 
