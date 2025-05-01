@@ -164,7 +164,7 @@
 
 82. Program to sort a list of numbers generated randomly.
 
-83. Program to frame a simple calculator with functions like add, sub, mult, divide.
+83. Program to frame a simple calculator with functions like add, sub, multi, divide.
 
 84. Program to input name and marks in five subjects and compute avg. and select the subjects.
 
@@ -172,9 +172,9 @@
 
 86. Program to arrange an entered string in Alphabetical order.
 
-87. Develop a program to input a list of elements in a double dimensional array of 3x3 and print the maximum and the minimum elements alongwith their location within the array.
+87. Develop a program to input a list of elements in a double dimensional array of 3x3 and print the maximum and the minimum elements along with their location within the array.
 
-88. Program to Sort a given Array in Descending Order.
+✔️ 88. Program to Sort a given Array in Descending Order.
 
 89. This function allows the user to enter a number and than rounds it off, correct to the nearest integer.
 
@@ -189,7 +189,6 @@
 ✔️ 94. Program to print a triangle as follows: 1 12 123 1234 12345.
 
 95. Program to enter any number (max. 3 digits) and check the nature of its digits.
-
 
 96. Program to input a number and print its binary equivalent.
 
