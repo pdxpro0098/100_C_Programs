@@ -71,9 +71,9 @@
 
 35. A palindrome number is one that reads same from left to right or right to left. There is an ingenious method to get a palindrome from any positive integer. The procedure is as follows: Start with any positive number of 2 or more digits. Obtain another positive number by reversing the digits of the starting number. Add the two numbers together. Repeat the whole procedure with the sum as the starting number till you get a sum which is a palindrome number. Program to calculate the palindrome of a given number in maximum 15 terms. Assume that the starting number is not a palindrome. Sample Input: 87. Output: 4884 Steps: 4.
 
-36. Program to print the sum of factorial of the digits of an entered number.
+✔️ 36. Program to print the sum of factorial of the digits of an entered number.
 
-37. Program to demonstrate the shorthand notation.
+✔️ 37. Program to demonstrate the shorthand notation.
 
 38. Program to demonstrate the increment operators.
 
@@ -91,9 +91,9 @@
 
 45. Program to input a number and print its odd factors.
 
-46. Program to input a number and print the average of its factors.
+✔️ 46. Program to input a number and print the average of its factors.
 
-47. Example program to demonstrate the usage of relational operators.
+✔️ 47. Example program to demonstrate the usage of relational operators.
 
 48. Program to print the sum of two numbers or product of two numbers according to the entered choice 1-sum, 2-product, 3 or any other from 1 or 2, display wrong code.
 
@@ -103,7 +103,7 @@
 
 51. To print the sum of the following series : s = a/1 + a/2 + a/3 +......+ a/n. Where a =2 and n=10 are the inputs.
 
-52. Program to print a triangle as follows: 1 12 123 1234 12345
+✔️ 52. Program to print a triangle as follows: 1 12 123 1234 12345
 
 53. To print the first ten terms of the fibonacci series.
 
