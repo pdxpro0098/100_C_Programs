@@ -1,4 +1,4 @@
-# 100_C_Programs
+# 100 C Programs
 
 ✔️ 1. Program to compute and print all prime numbers between 100 and 500
 
