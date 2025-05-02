@@ -14,11 +14,11 @@
 
 ✔️ 7. Write a program to input any ten numbers and print the maximum and minimum.
 
-✔️8. Program to input a number and print its even factors.
+✔️ 8. Program to input a number and print its even factors.
 
-✔️9. Write a program to define a function fact() to compute the factorial of any entered number.
+✔️ 9. Write a program to define a function fact() to compute the factorial of any entered number.
 
-✔️10. Create a program to define a function found() to print the Highest Common Factor of any two numbers.
+✔️ 10. Create a program to define a function found() to print the Highest Common Factor of any two numbers.
 
 ✔️ 11. Write a program to define and utilize a function perfect(), to print all perfect numbers from 1 to 100. ( A perfect number is a number which is equal to the sum of its factors eg. 6=1+2+3, hence 6 is a perfect number).
 
