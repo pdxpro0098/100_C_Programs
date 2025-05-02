@@ -126,7 +126,7 @@
 
 63. This program finds the integer between 1 and 10000 that has the largest number of divisors. It prints out the maximum number of divisors and an integer that has that many divisors.
 
-64. Class to input any two numbers and compute their LCM and HCF.
+✔️ 64. Program to input any two numbers and compute their LCM and HCF.
 
 65. Special Number Program. A number is said to be special if the sum of factorial of each digit is equal to the number.
 
