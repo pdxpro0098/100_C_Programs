@@ -56,7 +56,7 @@
 
 28. Program to perform Binary Search in an array of numbers.
 
-29. Program to perform Linear Search in a given array of numbers:
+✔️ 29. Program to perform Linear Search in a given array of numbers:
 
 30. Displaying the sum of row and columns of a double dimension array.
 

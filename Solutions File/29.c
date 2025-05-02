@@ -1,5 +1,3 @@
-// 29. Program to perform Linear Search in a given array of numbers:
-
 #include <stdio.h>
 #define LEN(arr) (sizeof(arr)) / sizeof(arr[0])
 
