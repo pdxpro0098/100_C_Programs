@@ -8,9 +8,9 @@
 
 ✔️ 4. Program to display the ccfncname of the week day as per the entered number.
 
-✔️ 5. Write a prograZee input any number and print the same in reverse.
+✔️ 5. Write a program input any number and print the same in reverse.
 
-✔️ 6. Prograz zam to display the sum and average of all even and odd numbers between 1 and 100.
+✔️ 6. Program to display the sum and average of all even and odd numbers between 1 and 100.
 
 ✔️ 7. Write a program to input any ten numbers and print the maximum and minimum.
 
@@ -38,7 +38,7 @@
 
 ✔️ 19. Program to display all prime fibonacci series between 1 to 10000.
 
-20. Program to input any string and display the number of vowels.
+✔️ 20. Program to input any string and display the number of vowels.
 
 21. Program which replaces each character in s by the character which is at a distance of move ahead, if move is positive. If move is 0 the original string is returned unchanged. If move is negative, then each character is replaced by a character at a distance move behind it. For example: When s=”ABCXYX”, encodeDecode(2) returns “CDEZAB” and When s=”ABCDE”, encodeDecode(-3) returns “XYZAB”
 
