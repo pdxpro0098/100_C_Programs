@@ -44,11 +44,11 @@
 
 ✔️ 22. Program to input a string and print each word in reverse.
 
-23. Program to print the frequency of all the characters within a string.
+✔️ 23. Program to print the frequency of all the characters within a string.
 
-24. Program to display the output as: 55555 54444 54333 54322 54321
+✔️ 24. Program to display the output as: 55555 54444 54333 54322 54321
 
-25. Program to Sort an array using Bubble Sort Method.
+✔️ 25. Program to Sort an array using Bubble Sort Method.
 
 26. Program to sort numbers using Selection Sort Method.
 
