@@ -42,7 +42,7 @@
 
 21. Program which replaces each character in s by the character which is at a distance of move ahead, if move is positive. If move is 0 the original string is returned unchanged. If move is negative, then each character is replaced by a character at a distance move behind it. For example: When s=”ABCXYX”, encodeDecode(2) returns “CDEZAB” and When s=”ABCDE”, encodeDecode(-3) returns “XYZAB”
 
-22. Program to input a string and print each word in reverse.
+✔️ 22. Program to input a string and print each word in reverse.
 
 23. Program to print the frequency of all the characters within a string.
 
