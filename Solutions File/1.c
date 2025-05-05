@@ -1,29 +1,37 @@
 #include <stdio.h>
 
-void isPrime(int prime);
+int isPrime(int prime);
 
 int main()
 {
 
     for (int i = 100; i <= 500; i++)
     {
-        isPrime(i);
-    }
+        if (isPrime(i))
+        {
+            printf("prime : %d\n", i);
+        }
+        }
     return 0;
 }
 
-void isPrime(int prime)
+int isPrime(int prime)
 {
-    int divCount = 0;
-    for (int i = 1; i <= prime; i++)
+    if (prime <= 1)
+    {
+        return 0;
+    }
+
+    if (prime == 3 || prime == 2)
+    {
+        return 1;
+    }
+    for (int i = 2; i < prime; i++)
     {
         if (prime % i == 0)
         {
-            divCount++;
+            return 0;
         }
     }
-    if (divCount == 2)
-    {
-        printf("%d is prime \n", prime);
-    }
+    return 1;
 }
