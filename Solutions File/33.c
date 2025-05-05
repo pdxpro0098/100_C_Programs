@@ -1,4 +1,3 @@
-// 33. Program to input any number and check if it is a prime. Also implement the logic of display of all twin primes within a given limit.
 #include <stdio.h>
 
 int isPrime(int prime)
@@ -24,12 +23,26 @@ int isPrime(int prime)
 
 int main()
 {
+    int num = 100;
+    if (isPrime(num))
+    {
+        printf("Is prime %d\n", num);
+    }
+    else
+    {
+        printf("Is not prime %d\n", num);
+    }
 
-    for (int i = 0; i <= 100; i++)
+    printf("\n\n");
+
+    for (int i = 0; i <= num; i++)
     {
         if (isPrime(i))
         {
-            printf("prime no. %d\n", i);
+            if (isPrime(i) == isPrime(i + 2))
+            {
+                printf("Twin prime %d %d\n", i, i + 2);
+            }
         }
     }
 
