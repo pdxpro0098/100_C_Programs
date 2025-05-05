@@ -62,13 +62,13 @@
 
 ✔️ 31. Program to enter a number and sort the digits in ascending order. Display the new digit so obtained.
 
-32. Store N elements in an array WORK and compute the total number of times M occurs in WORK. Where N and M are the inputs alongwith the elements of the array. Program to print the frequency of M in an array of N elements.
+32. Store N elements in an array WORK and compute the total number of times M occurs in WORK. Where N and M are the inputs alongside the elements of the array. Program to print the frequency of M in an array of N elements.
 
-33. Program to input any number and check if it is a prime. Also implement the logic of display of all twin primes within a given limit.
+✔️ 33. Program to input any number and check if it is a prime. Also implement the logic of display of all twin primes within a given limit.
 
-34. Program to compute the middle digit of any entered number. If the number does not have a middle digit, it has to return the average of the middle two digits.
+✔️ 34. Program to compute the middle digit of any entered number. If the number does not have a middle digit, it has to return the average of the middle two digits.
 
-35. A palindrome number is one that reads same from left to right or right to left. There is an ingenious method to get a palindrome from any positive integer. The procedure is as follows: Start with any positive number of 2 or more digits. Obtain another positive number by reversing the digits of the starting number. Add the two numbers together. Repeat the whole procedure with the sum as the starting number till you get a sum which is a palindrome number. Program to calculate the palindrome of a given number in maximum 15 terms. Assume that the starting number is not a palindrome. Sample Input: 87. Output: 4884 Steps: 4.
+35 WAP to check if a number is palindrome or not.
 
 ✔️ 36. Program to print the sum of factorial of the digits of an entered number.
 
