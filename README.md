@@ -80,9 +80,9 @@
 
 ✔️ 40. Example program to demonstrate the usage of if else statement.
 
-41. Example Class Definition to demonstrate the usage of if else if statement.
+✔️ 41. Example Class Definition to demonstrate the usage of if else if statement.
 
-42. Program to input marks in five subjects and display the grade.
+✔️ 42. Program to input marks in five subjects and display the grade.
 
 ✔️ 43. Program to enter a number and check if it is a prime.
 

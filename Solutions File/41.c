@@ -1,4 +1,3 @@
-// 41. Example Class Definition to demonstrate the usage of if else if statement.
 #include <stdio.h>
 
 int main()
