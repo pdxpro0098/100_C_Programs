@@ -68,15 +68,15 @@
 
 ✔️ 34. Program to compute the middle digit of any entered number. If the number does not have a middle digit, it has to return the average of the middle two digits.
 
-35 WAP to check if a number is palindrome or not.
+✔️ 35 WAP to check if a number is palindrome or not.
 
 ✔️ 36. Program to print the sum of factorial of the digits of an entered number.
 
 ✔️ 37. Program to demonstrate the shorthand notation.
 
-38. Program to demonstrate the increment operators.
+✔️ 38. Program to demonstrate the increment operators.
 
-39. Example program to demonstrate the usage of implicit or automatic type conversion.
+✔️ 39. Example program to demonstrate the usage of implicit or automatic type conversion.
 
 ✔️ 40. Example program to demonstrate the usage of if else statement.
 
