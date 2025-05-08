@@ -88,23 +88,23 @@
 
 44. Program to enter any number (max 3 digits) and check the nature of its digits.
 
-45. Program to input a number and print its odd factors.
+✔️ 45. Program to input a number and print its odd factors.
 
 ✔️ 46. Program to input a number and print the average of its factors.
 
 ✔️ 47. Example program to demonstrate the usage of relational operators.
 
-48. Program to print the sum of two numbers or product of two numbers according to the entered choice 1-sum, 2-product, 3 or any other from 1 or 2, display wrong code.
+✔️ 48. Program to print the sum of two numbers or product of two numbers according to the entered choice 1-sum, 2-product, 3 or any other from 1 or 2, display wrong code.
 
 49. To calculate the factorial of any number using multiple initialization expressions.
 
-50. Program to print prime factorization.
+✔️ 50. Program to print prime factorization.
 
 51. To print the sum of the following series : s = a/1 + a/2 + a/3 +......+ a/n. Where a =2 and n=10 are the inputs.
 
 ✔️ 52. Program to print a triangle as follows: 1 12 123 1234 12345
 
-53. To print the first ten terms of the fibonacci series.
+✔️ 53. To print the first ten terms of the fibonacci series.
 
 ✔️ 54. To print the sum of first 100 natural numbers.
 
