@@ -108,9 +108,9 @@
 
 ✔️ 54. To print the sum of first 100 natural numbers.
 
-55. Program to enter a number and print the number of odd numbers from 1 to the number, even numbers and also the summation of odd and even numbers.
+✔️ 55. Program to enter a number and print the number of odd numbers from 1 to the number, even numbers and also the summation of odd and even numbers.
 
-56. Program to input a number and check if it is an armstrong number. A number is said to be Armstrong if it is equal to the sum of the cubes of its digits.
+✔️ 56. Program to input a number and check if it is an armstrong number. A number is said to be Armstrong if it is equal to the sum of the cubes of its digits.
 
 57. Program to input a number and print its even factors.
 
