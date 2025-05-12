@@ -112,7 +112,7 @@
 
 ✔️ 56. Program to input a number and check if it is an armstrong number. A number is said to be Armstrong if it is equal to the sum of the cubes of its digits.
 
-57. Program to input a number and print its even factors.
+✔️ 57. Program to input a number and print its even factors.
 
 ✔️ 58. To calculate the square of any ten numbers.
 
@@ -122,7 +122,7 @@
 
 61. To Display the output as: 12345 54321 1234 4321 123 321 12 21 1 1
 
-62. Develop a C program to input any number and print the sum of its first and the last digit.
+✔️ 62. Develop a C program to input any number and print the sum of its first and the last digit.
 
 63. This program finds the integer between 1 and 10000 that has the largest number of divisors. It prints out the maximum number of divisors and an integer that has that many divisors.
 
