@@ -124,7 +124,7 @@
 
 ✔️ 62. Develop a C program to input any number and print the sum of its first and the last digit.
 
-63. This program finds the integer between 1 and 10000 that has the largest number of divisors. It prints out the maximum number of divisors and an integer that has that many divisors.
+✔️ 63. This program finds the integer between 1 and 10000 that has the largest number of divisors. It prints out the maximum number of divisors and an integer that has that many divisors.
 
 ✔️ 64. Program to input any two numbers and compute their LCM and HCF.
 
