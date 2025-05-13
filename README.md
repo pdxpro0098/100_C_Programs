@@ -120,7 +120,7 @@
 
 ✔️ 60. Program to display the following series. -1+2-3+4.......n
 
-61. To Display the output as: 12345 54321 1234 4321 123 321 12 21 1 1
+✔️ 61. To Display the output as: 12345 54321 1234 4321 123 321 12 21 1 1
 
 ✔️ 62. Develop a C program to input any number and print the sum of its first and the last digit.
 
