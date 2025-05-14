@@ -130,7 +130,7 @@
 
 ✔️ 65. Special Number Program. A number is said to be special if the sum of factorial of each digit is equal to the number.
 
-66. Program to display all armstrong numbers between 100 and 1000 using arrays.
+✔️ 66. Program to display all armstrong numbers between 100 and 1000 using arrays.
 
 ✔️ 67. Program to input a number and print its binary equivalent.
 
@@ -138,7 +138,7 @@
 
 69. Example program to display the magic square of an entered value of n and x. Where n is the number of terms required for the array (nxn) and x is the value of the first element.
 
-70. This class allows the user to enter a number and than rounds it off, correct to the nearest integer.
+70. This class allows the user tmo enter a number and than rounds it off, correct to the nearest integer.
 
 ✔️ 71. Develop a program to input any number and print the sum of its digits.
 
