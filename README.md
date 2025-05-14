@@ -128,11 +128,11 @@
 
 ✔️ 64. Program to input any two numbers and compute their LCM and HCF.
 
-65. Special Number Program. A number is said to be special if the sum of factorial of each digit is equal to the number.
+✔️ 65. Special Number Program. A number is said to be special if the sum of factorial of each digit is equal to the number.
 
 66. Program to display all armstrong numbers between 100 and 1000 using arrays.
 
-67. Program to input a number and print its binary equivalent.
+✔️ 67. Program to input a number and print its binary equivalent.
 
 68. Program to enter a number and sort the digits in ascending order. Display the new digit so obtained.
 
@@ -148,7 +148,7 @@
 
 74. Program to define the Arithmetic class.
 
-75. Program to demonstrate Bitwise Operation In JAVA.
+75. Program to demonstrate Bitwise Operation In C.
 
 ✔️ 76. Program to implement relational Operators.
 
