@@ -201,3 +201,5 @@
 ✔️ 100. Program to print the characters of the string present at odd positions
 
 ✔️ 101. Program to print the reverse of a number using for loop while loop and do while.
+
+✔️ 102. Write a program to check the number you entered is armstrong or not?.
