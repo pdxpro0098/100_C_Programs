@@ -26,17 +26,16 @@ int main()
     printf("\n");
     int start = 0;
     int end = len;
-    int val = 78;
-    int idx;
+    int val = 45;
+    int idx = -1;
 
     printf("\n");
     while (start <= end)
     {
-        int mid = (start + end) / 2;
+        int mid = start + (end - start) / 2;
         if (arr[mid] == val)
         {
             idx = mid;
-            printf("found %d", idx);
             break;
         }
         else if (arr[mid] < val)
@@ -49,5 +48,6 @@ int main()
         }
     }
 
+    printf("%d", idx);
     return 0;
 }
