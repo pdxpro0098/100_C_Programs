@@ -54,7 +54,7 @@
 
 27. Program to sort any array of numbers using Insertion Sort Method.
 
-28. Program to perform Binary Search in an array of numbers.
+✔️ 28. Program to perform Binary Search in an array of numbers.
 
 ✔️ 29. Program to perform Linear Search in a given array of numbers:
 
@@ -190,7 +190,7 @@
 
 95. Program to enter any number (max. 3 digits) and check the nature of its digits.
 
-96. Program to input a number and print its binary equivalent.
+✔️ 96. Program to input a number and print its binary equivalent.
 
 97. Program to enter a number and sort the digits in ascending order. Display the new digit so obtained.
 
