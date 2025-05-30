@@ -2,23 +2,23 @@
 
 int main()
 {
-    int arr[10] = {2, 4, 1, 3, 6, 5, 7, 8, 9, 0};
+    int i, j, length;
 
-    for (int i = 0; i < 10; i++)
+    int arr[] = {6, 3, 7, 2, 8, 5, 9, 4};
+    length = sizeof(arr) / sizeof(arr[0]);
+
+    for (i = 0; i < length; i++)
     {
-        for (int j = 0; j < 10 - i - 1; j++)
+        for (j = i + 1; j < length; j++)
         {
-            if (arr[j] < arr[j + 1])
+            if (arr[i] < arr[j])
             {
-                char temp = arr[j];
-                arr[j] = arr[j + 1];
-                arr[j + 1] = temp;
+                arr[i] = arr[i] + arr[j];
+                arr[j] = arr[i] - arr[j];
+                arr[i] = arr[i] - arr[j];
             }
         }
-    }
-    for (int i = 0; i < 10; i++)
-    {
-        printf("%d ", arr[i]);
+        printf(" %d", arr[i]);
     }
 
     return 0;
