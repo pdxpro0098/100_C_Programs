@@ -1,3 +1,4 @@
+// Krish's Approach
 #include <stdio.h>
 
 int main()
@@ -21,3 +22,28 @@ int main()
 
     return 0;
 }
+
+// Dalip's Approach
+#include <stdio.h>
+
+int main(){
+    int num,j,i,binary[45];
+    i = 0;
+    num = 3;
+
+    while(num>0){
+        binary[i] = num % 2;
+        num /= 2;
+        i++;
+    }
+
+    printf("Decimal to Binary:\n");
+    printf("Decimal = %d\n",num);
+    printf("Binary = ");
+    for(j = i-1;j>=0;j--){
+        printf("%d",binary[j]);
+    }
+
+    return 0;
+}
+
