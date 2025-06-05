@@ -170,7 +170,7 @@
 
 ✔️ 85. Program to print the reverse of any entered string.
 
-86. Program to arrange an entered string in Alphabetical order.
+✔️86. Program to arrange an entered string in Alphabetical order.
 
 87. Develop a program to input a list of elements in a double dimensional array of 3x3 and print the maximum and the minimum elements along with their location within the array.
 

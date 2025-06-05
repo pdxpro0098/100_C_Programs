@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define LCM(a, b) ((a * b) / hfc(a, b))
+#define LCM(a, b) ((a * b) / HCF(a, b))
 #define SMALLER(a, b) (a < b ? a : b)
 
 int HCF(int a, int b)
@@ -14,7 +14,7 @@ int main()
 {
     int a = 12, b = 18;
 
-    printf("%d", HCF(a, b));
+    printf("%d", LCM(a, b));
 
     return 0;
 }
