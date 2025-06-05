@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-int len(int a){
+int len(int a)
+{
     int len = 0;
-    for(a;a>0;a/=10){
+    for (a; a > 0; a /= 10)
+    {
         len++;
     }
     return len;
@@ -10,9 +12,8 @@ int len(int a){
 int main()
 {
 
-    int i, j,b, temp = 0;
+    int i, j, b, temp = 0;
     int a = 46786355, d = len(a);
-
 
     int arr[d];
     for (int i = 0; i < d; i++)
@@ -20,7 +21,6 @@ int main()
         arr[i] = a % 10;
         a /= 10;
     }
-
 
     for (i = 0; i < d; i++)
     {
@@ -33,10 +33,8 @@ int main()
                 arr[j] = temp;
             }
         }
-        printf("%d",arr[i]);
-
+        printf("%d", arr[i]);
     }
-
 
     return 0;
 }
