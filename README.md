@@ -160,7 +160,7 @@
 
 ✔️ 80. Program to compute the factorial.
 
-81. Program to print the first 20 numbers of the fibonacci numbers.
+✔️ 81. Program to print the first 20 numbers of the fibonacci numbers.
 
 82. Program to sort a list of numbers generated randomly.
 
@@ -192,9 +192,9 @@
 
 ✔️ 96. Program to input a number and print its binary equivalent.
 
-97. Program to enter a number and sort the digits in ascending order. Display the new digit so obtained.
+✔️ 97. Program to enter a number and sort the digits in ascending order. Display the new digit so obtained.
 
-98. Program to extract and display the maximum prime digit from a number.
+✔️ 98. Program to extract and display the maximum prime digit from a number.
 
 99. Program to display the following output: 11 22 23 33.
 
