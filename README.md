@@ -134,7 +134,7 @@
 
 ✔️ 67. Program to input a number and print its binary equivalent.
 
-68. Program to enter a number and sort the digits in ascending order. Display the new digit so obtained.
+✔️ 68. Program to enter a number and sort the digits in ascending order. Display the new digit so obtained.
 
 69. Example program to display the magic square of an entered value of n and x. Where n is the number of terms required for the array (nxn) and x is the value of the first element.
 
