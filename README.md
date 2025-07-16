@@ -30,7 +30,7 @@
 
 15. Description: Its a simple program which calculates the day of the week for any given date & month of the year 2002.
 
-16. Program to display the Pascal’s Triangle.
+✔️ 16. Program to display the Pascal’s Triangle.
 
 ✔️ 17. Develop a program to input any number and print them in ascending order without using the sorting technique.
 
