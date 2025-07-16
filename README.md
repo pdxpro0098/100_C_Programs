@@ -50,7 +50,7 @@
 
 ✔️ 25. Program to Sort an array using Bubble Sort Method.
 
-26. Program to sort numbers using Selection Sort Method.
+✔️ 26. Program to sort numbers using Selection Sort Method.
 
 27. Program to sort any array of numbers using Insertion Sort Method.
 
