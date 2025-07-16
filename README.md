@@ -52,7 +52,7 @@
 
 ✔️ 26. Program to sort numbers using Selection Sort Method.
 
-27. Program to sort any array of numbers using Insertion Sort Method.
+✔️ 27. Program to sort any array of numbers using Insertion Sort Method.
 
 ✔️ 28. Program to perform Binary Search in an array of numbers.
 
