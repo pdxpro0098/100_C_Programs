@@ -86,7 +86,7 @@
 
 ✔️ 43. Program to enter a number and check if it is a prime.
 
-44. Program to enter any number (max 3 digits) and check the nature of its digits.
+✔️ 44. Program to enter any number (max 3 digits) and check the nature of its digits.
 
 ✔️ 45. Program to input a number and print its odd factors. 
 
