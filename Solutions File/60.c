@@ -1,4 +1,4 @@
-
+// Dalip's Approach
 #include <stdio.h>
 
 int main()
