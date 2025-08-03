@@ -162,7 +162,7 @@
 
 ✔️ 81. Program to print the first 20 numbers of the fibonacci numbers.
 
-82. Program to sort a list of numbers generated randomly.
+✔️ 82. Program to sort a list of numbers generated randomly.
 
 83. Program to frame a simple calculator with functions like add, sub, multi, divide.
 
