@@ -2,7 +2,7 @@
 
 int main()
 {
-    char arr[] = {'L', 'A', 'T', 'A', ' ', 'D', 'A', 'L', 'I', 'P', '\0'};
+    char arr[] = {'D', 'A', 'L', 'I', 'P', ' ', 'K', 'U', 'M', 'A', 'R', '\0'};
 
     for (int i = 0; i < sizeof(arr); i++)
     {

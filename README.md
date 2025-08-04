@@ -62,7 +62,7 @@
 
 ✔️ 31. Program to enter a number and sort the digits in ascending order. Display the new digit so obtained.
 
-32. Store N elements in an array WORK and compute the total number of times M occurs in WORK. Where N and M are the inputs alongside the elements of the array. Program to print the frequency of M in an array of N elements.
+✔️ 32. Store N elements in an array WORK and compute the total number of times M occurs in WORK. Where N and M are the inputs alongside the elements of the array. Program to print the frequency of M in an array of N elements.
 
 ✔️ 33. Program to input any number and check if it is a prime. Also implement the logic of display of all twin primes within a given limit.
 
@@ -86,7 +86,7 @@
 
 ✔️ 43. Program to enter a number and check if it is a prime.
 
-44. Program to enter any number (max 3 digits) and check the nature of its digits.
+✔️ 44. Program to enter any number (max 3 digits) and check the nature of its digits.
 
 ✔️ 45. Program to input a number and print its odd factors. 
 
@@ -162,7 +162,7 @@
 
 ✔️ 81. Program to print the first 20 numbers of the fibonacci numbers.
 
-82. Program to sort a list of numbers generated randomly.
+✔️ 82. Program to sort a list of numbers generated randomly.
 
 83. Program to frame a simple calculator with functions like add, sub, multi, divide.
 
