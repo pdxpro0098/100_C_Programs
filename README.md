@@ -6,7 +6,7 @@
 
 ✔️ 3. Program to create a 3x3 matrix and store the first nine natural numbers row wise. The program should further display the sum of rows, columns and diagonals.
 
-✔️ 4. Program to display the ccfncname of the week day as per the entered number.
+✔️ 4. Program to display the name of the week day as per the entered number.
 
 ✔️ 5. Write a program input any number and print the same in reverse.
 
@@ -138,7 +138,7 @@
 
 69. Example program to display the magic square of an entered value of n and x. Where n is the number of terms required for the array (nxn) and x is the value of the first element.
 
-70. This class allows the user tmo enter a number and than rounds it off, correct to the nearest integer.
+70. This class allows the user to enter a number and then rounds it off, correct to the nearest integer.
 
 ✔️ 71. Develop a program to input any number and print the sum of its digits.
 
