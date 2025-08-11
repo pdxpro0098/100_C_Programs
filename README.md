@@ -148,11 +148,11 @@
 
 74. Program to define the Arithmetic class.
 
-75. Program to demonstrate Bitwise Operation In C.
+✔️ 75. Program to demonstrate Bitwise Operation In C.
 
 ✔️ 76. Program to implement relational Operators.
 
-77. Program to implement arithmetic on float values.
+✔️ 77. Program to implement arithmetic on float values.
 
 ✔️ 78. Program to display nested for looping.
 
@@ -164,7 +164,7 @@
 
 ✔️ 82. Program to sort a list of numbers generated randomly.
 
-83. Program to frame a simple calculator with functions like add, sub, multi, divide.
+✔️ 83. Program to frame a simple calculator with functions like add, sub, multi, divide.
 
 84. Program to input name and marks in five subjects and compute avg. and select the subjects.
 
