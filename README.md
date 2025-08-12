@@ -182,7 +182,7 @@
 
 91. Program to create a magic square box of order n x n. The specialty of a magic square box is that the sum of elements of any row or any column is always equal. Enter the row of matrix and the starting index of matrix number generation.
 
-92. Program to check if any entered number is a Magic Number.
+✔️ 92. Program to check if any entered number is a Magic Number.
 
 ✔️ 93. Program to input any number and display the sum of its digits.
 
