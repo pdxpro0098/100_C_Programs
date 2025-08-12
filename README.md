@@ -144,7 +144,7 @@
 
 ✔️ 72. Program to implement increment and decrement operators.
 
-73. Program to define a negation class.
+✔️ 73. Program to define a negation class.
 
 74. Program to define the Arithmetic class.
 
