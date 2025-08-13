@@ -138,7 +138,7 @@
 
 69. Example program to display the magic square of an entered value of n and x. Where n is the number of terms required for the array (nxn) and x is the value of the first element.
 
-70. This class allows the user to enter a number and then rounds it off, correct to the nearest integer.
+✔️ 70. This class allows the user to enter a number and then rounds it off, correct to the nearest integer.
 
 ✔️ 71. Develop a program to input any number and print the sum of its digits.
 
