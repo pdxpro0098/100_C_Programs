@@ -178,7 +178,7 @@
 
 89. This function allows the user to enter a number and than rounds it off, correct to the nearest integer.
 
-90. Program to display a Triangle of numbers called the Pascal's Triangle, when provided with the number of rows.
+✔️ 90. Program to display a Triangle of numbers called the Pascal's Triangle, when provided with the number of rows.
 
 91. Program to create a magic square box of order n x n. The specialty of a magic square box is that the sum of elements of any row or any column is always equal. Enter the row of matrix and the starting index of matrix number generation.
 
