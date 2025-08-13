@@ -176,7 +176,7 @@
 
 ✔️ 88. Program to Sort a given Array in Descending Order.
 
-89. This function allows the user to enter a number and than rounds it off, correct to the nearest integer.
+✔️ 89. This function allows the user to enter a number and than rounds it off, correct to the nearest integer.
 
 ✔️ 90. Program to display a Triangle of numbers called the Pascal's Triangle, when provided with the number of rows.
 
